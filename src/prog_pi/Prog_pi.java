@@ -8,6 +8,10 @@ package prog_pi;
  *
  * @author Ghada_Nechi
  */
+
+
+
+
 public class Prog_pi {
 
     /**
@@ -16,4 +20,18 @@ public class Prog_pi {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    
+    public class Resto {
+    private int idResto;
+    private int Rim;
+    private int Ghada;
+    
 }
+    
+    
+    
+    
+}
+
+
+
